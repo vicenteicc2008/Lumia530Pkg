@@ -2,7 +2,7 @@
 WIP Custom ARM UEFI firmware for Nokia Lumia 530
 
 # Current Status
-linux boots correctly on Lumia 530 
+linux boots correctly on Lumia 530, Lumia 530 kernel is available here : https://github.com/Android4LumiaMsm8x12/linux-next
 
 # Credits
 Thanks to rickliu2000 for creating Lumia930Pkg
