@@ -5,7 +5,9 @@ WIP Custom ARM UEFI firmware for Nokia Lumia 530
 because the screen resolution (480x854) and RAM (512MB) seemed similar to me
 
 # Current Status
-linux boots correctly on Lumia 530, Lumia 530 kernel is available here : https://github.com/Android4LumiaMsm8x12/linux-next
+linux boots correctly on Lumia 530, a mainline linux kernel is available here : https://github.com/Android4LumiaMsm8x12/linux-next
+
+Android Kernel is WIP so if you want to help me you can join the discord server (https://discord.gg/45bWwPjVnt)
 
 # Credits
 Thanks to rickliu2000 for creating Lumia930Pkg
