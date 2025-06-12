@@ -24,9 +24,6 @@ ARM_CORE_INFO mArmPlatformNullMpCoreInfoTable[] = {
     0x0, 0x0,
 
     // MP Core MailBox Set/Get/Clear Addresses and Clear Value
-    (EFI_PHYSICAL_ADDRESS)0,
-    (EFI_PHYSICAL_ADDRESS)0,
-    (EFI_PHYSICAL_ADDRESS)0,
     (UINT64)0xFFFFFFFF
   },
   {
@@ -34,9 +31,6 @@ ARM_CORE_INFO mArmPlatformNullMpCoreInfoTable[] = {
     0x0, 0x1,
 
     // MP Core MailBox Set/Get/Clear Addresses and Clear Value
-    (EFI_PHYSICAL_ADDRESS)0,
-    (EFI_PHYSICAL_ADDRESS)0,
-    (EFI_PHYSICAL_ADDRESS)0,
     (UINT64)0xFFFFFFFF
   },
   {
@@ -44,9 +38,6 @@ ARM_CORE_INFO mArmPlatformNullMpCoreInfoTable[] = {
     0x0, 0x2,
 
     // MP Core MailBox Set/Get/Clear Addresses and Clear Value
-    (EFI_PHYSICAL_ADDRESS)0,
-    (EFI_PHYSICAL_ADDRESS)0,
-    (EFI_PHYSICAL_ADDRESS)0,
     (UINT64)0xFFFFFFFF
   },
   {
@@ -54,9 +45,6 @@ ARM_CORE_INFO mArmPlatformNullMpCoreInfoTable[] = {
     0x0, 0x3,
 
     // MP Core MailBox Set/Get/Clear Addresses and Clear Value
-    (EFI_PHYSICAL_ADDRESS)0,
-    (EFI_PHYSICAL_ADDRESS)0,
-    (EFI_PHYSICAL_ADDRESS)0,
     (UINT64)0xFFFFFFFF
   }
 };
