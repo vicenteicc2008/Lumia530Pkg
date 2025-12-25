@@ -14,7 +14,7 @@
 
 #include <AsmMacroIoLib.h>
 #include <Library/PcdLib.h>
-#include <Chipset/ArmV7.h>
+#include <Arm/AArch32.h>
 
 #define LoadConstantToReg(Data, Reg) \
     ldr Reg, =Data

@@ -123,6 +123,9 @@
   gQcomTokenSpaceGuid.PcdMsmSharedSize|0x0|UINT64|0x00000002
   gQcomTokenSpaceGuid.PcdSmemTargetInfoAddress|0|UINT64|0x0000003
 
+  # Timer
+  gArmTokenSpaceGuid.PcdArmArchTimerFreqInHz|0|UINT32|0x00000a900
+
 [PcdsFeatureFlag.common]
   # MMCHSDxe
   gQcomTokenSpaceGuid.PcdMmcAdmSupport|FALSE|BOOLEAN|0x00010001
